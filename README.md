@@ -1,4 +1,4 @@
-# ![Read WSJ](https://chrome.google.com/webstore/detail/fbnkddhhmgncpdelhcefpeebnjeoicbl)
+# [Read WSJ](https://chrome.google.com/webstore/detail/fbnkddhhmgncpdelhcefpeebnjeoicbl)
 
 ![](icon-128.png)
 
