@@ -1,0 +1,29 @@
+{
+   "content_scripts": [{
+      "matches": [
+         "http://www.wsj.com/*",
+         "https://www.wsj.com/*",
+         "http://wsj.com/*",
+         "https://wsj.com/*"
+      ],
+      "js": ["script.js"]
+   }],
+   "author": "Karan Goel",
+   "description": "We Know You're Just Going To Google This Headline Antway, So Here Is A Link To The Free Article, You Cheap Bastard",
+   "homepage_url": "https://twitter.com/karangoel",
+   "icons": {
+      "128": "icon-128.png",
+      "96": "icon-96.png"
+   },
+   "manifest_version": 2,
+   "name": "Read WSJ",
+   "permissions": [
+      "http://www.wsj.com/",
+      "https://www.wsj.com/",
+      "http://wsj.com/",
+      "https://wsj.com/",
+      "tabs"
+   ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.1"
+}
