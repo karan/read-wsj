@@ -1,6 +1,6 @@
-# Read WSJ
+# ![Read WSJ](https://chrome.google.com/webstore/detail/fbnkddhhmgncpdelhcefpeebnjeoicbl)
 
-![](icon-144.png)
+![](icon-128.png)
 
 We Know You're Just Going To Google This Headline Anyway, So Here Is A Link To The Free Article, You Cheap Bastard
 
